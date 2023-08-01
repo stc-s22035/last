@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BMICalculatorC010</string>
+    <string name="tv_title">BMI計算機</string>
+    <string name="tv_obesity">あなたの肥満度は</string>
+    <string name="tv_obesity_low">低体重</string>
+    <string name="tv_obesity_nom">普通体重</string>
+    <string name="tv_obesity_1">肥満(1度)</string>
+    <string name="tv_obesity_2">肥満(2度)</string>
+    <string name="tv_obesity_3">肥満(3度)</string>
+    <string name="tv_obesity_4">肥満(4度)</string>
+    <string name="tv_obesity_child_too_low">やせすぎ</string>
+    <string name="tv_obesity_child_low">やせてる</string>
+    <string name="tv_obesity_child_nom">ふつう</string>
+    <string name="tv_obesity_child_fat">ふとっている</string>
+    <string name="tv_obesity_child_too_fat">ふとりすぎ</string>
+    <string name="tv_best_weight">あなたの適正体重は</string>
+    <string name="tv_age1">年齢</string>
+    <string name="tv_age2">歳</string>
+    <string name="tv_height1">身長</string>
+    <string name="tv_height2">cm</string>
+    <string name="tv_weight1">体重</string>
+    <string name="tv_weight2">kg</string>
+    <string name="bt_calc">計算</string>
+    <string name="bt_clr">クリア</string>
+    <string name="dialog_title">注意</string>
+    <string name="dialog_msg">適切な肥満度を求めるために、6歳未満の場合はカウプ指数を、6歳から15歳まではローレル指数を使用しています。</string>
+    <string name="dialog_btn_ok">確認</string>
+</resources>
